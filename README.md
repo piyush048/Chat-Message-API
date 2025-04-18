@@ -4,27 +4,27 @@ A simple, secure, and scalable messaging API built with **Express.js**, **TypeSc
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-├── src/
-│   ├── controllers/
-│   ├── middlewares/
-│   ├── models/
-│   ├── routes/
-│   ├── services/
-│   ├── utils/
-│   └── main.ts
-├── dist/ (compiled JS files)
-├── .env
-├── package.json
-├── tsconfig.json
-└── README.md
+src/
+>controllers/
+>middlewares/
+>models/
+>routes/
+>services/
+>utils/
+>main.ts
+dist/ (compiled JS files)
+.env
+package.json
+tsconfig.json
+README.md
 ```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js v18+
@@ -69,7 +69,7 @@ npm start
 
 ---
 
-## 📚 Tech Stack
+## Tech Stack
 
 - **Backend Framework**: Express.js
 - **Language**: TypeScript
@@ -82,7 +82,7 @@ npm start
 
 ---
 
-## 📖 Features
+## Features
 
 - Secure Authentication (Signup/Login) with JWT
 - Input validation using Joi
@@ -93,7 +93,7 @@ npm start
 
 ---
 
-## 🛠 Scripts
+## Scripts
 
 | Command | Description |
 |---------|-------------|
@@ -103,27 +103,27 @@ npm start
 
 ---
 
-## 🧹 Linting & Formatting
+## Linting & Formatting
 
 > (Not added yet) You can integrate ESLint + Prettier for clean code.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **ISC License**.
 
 ---
 
-## ✨ Author
+## Author
 
-Made with ❤️ by [Your Name Here]
+Made with ❤️ by PIYUSH GUPTA
 
 ---
 
